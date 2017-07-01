@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.youdao.sdk.ydtranslatedemo"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="23" />
+    <!-- 必加权限 -->
+    <!-- 网络访问权限 -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!-- 获取WiFi状态 -->
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <!-- 获取网络信息状态，如当前的网络连接是否有效 -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <!-- 读取手机状态 phone group -->
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <!-- 往SDCard读写数据权限   storage group -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <!-- 定位相关权限，建议添加，便于广告的定向  location group -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.SET_DEBUG_APP" />
+
+     <application
+        android:name="com.youdao.sdk.ydtranslatedemo.DemoApplication"
+        android:allowBackup="false"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"  >
+        <activity
+            android:name="com.youdao.sdk.ydtranslatedemo.MainActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        
+          <activity
+            android:name="com.youdao.sdk.ydtranslatedemo.TranslateActivity"
+            android:theme="@style/XiaoYouStyle" >
+        </activity>
+        
+        <activity
+            android:name="com.youdao.sdk.ydtranslatedemo.TranslateDetailActivity"
+            android:theme="@style/XiaoYouStyle" >
+        </activity>
+        
+          <activity
+            android:name="com.youdao.sdk.ydtranslatedemo.TranslateOfflineLineActivity"
+            android:theme="@style/XiaoYouStyle" >
+        </activity>
+        
+         <activity
+            android:name="com.youdao.sdk.ydtranslatedemo.TranslateOfflineWordActivity"
+            android:theme="@style/XiaoYouStyle" >
+        </activity>
+        
+          <activity
+            android:name="com.youdao.sdk.ydtranslatedemo.MyBrowser"
+            android:theme="@style/XiaoYouStyle" >
+        </activity>
+        
+          
+        <activity
+            android:name="com.youdao.sdk.ydtranslatedemo.HanyuActivity"
+            android:theme="@style/XiaoYouStyle" >
+        </activity>
+          
+    </application>
+
+     
+     
+</manifest>

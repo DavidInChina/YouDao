@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="app_name">有道翻译SDK</string>
+    <string name="keywords">可以输入关键字</string>
+    <string name="load_ad">加载</string>
+    <string name="native_icon_image">native_icon_image</string>
+    <string name="native_main_image">native_main_image</string>
+    <string name="learn_more">Learn More</string> 
+</resources>

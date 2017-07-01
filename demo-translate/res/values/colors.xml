@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> 
+   <color name="background_tab_pressed">#6633B5E5</color>
+    <color name="light_gray_text">#949494</color>
+    <color name="common_list_divider">#dfdfdf</color>
+    <color name="main_light_color">#ffcc00</color>
+    <color name="main_color">#BE1029</color>
+    <color name="main_forecolor">#ffffff</color>
+    <color name="main_bgcolor">#fff</color>
+    <color name="main_color_disabled">#808080</color>
+    <color name="main_color_border">#f39c12</color>
+    <color name="main_blackcolor">#1e1f20</color>
+    <color name="main_talk_bar_color">#f39c12</color>
+    <color name="main_darkyellow_color">#e67e22</color>
+    
+    <color name="color_hei">#ff000000</color>
+    <color name="color_hei_8">#00000000</color>
+    <color name="color_cihei">#ff333333</color>
+    <color name="thirty_transparent_black">#4d000000</color>
+    <color name="semi_transparent">#7f000000</color>
+    <color name="home_grey_bg">#ececec</color>
+    <color name="hint_text_grey">#cdcfd0</color>
+    <color name="list_divider_grey">#dad5cb</color>
+    <color name="white">#ffffff</color>
+    <color name="light_white">#f3f3f3</color>
+    <color name="red">#E03E3F</color>
+    <color name="dark_red">#fd4d38</color>
+    <color name="black">#000000</color>
+    <color name="gray">#666666</color>
+    <color name="orange">#ff7f27</color>
+    <color name="dark_gray">#333333</color>
+	<color name="darkgray">#9333</color>
+    <color name="lightgray">#eaaa</color>
+    <color name="tab_red">#f64c47</color>
+    <color name="tab_blue">#2cb5ff</color>
+    <color name="tab_gray">#a0a0a0</color>
+    <color name="tab_white">#eeeeee</color>
+    <color name="title_black">#2c2c2c</color>
+    <color name="text_white">#ffffff</color>
+    <color name="text_black">#4e4c4a</color>
+    <color name="text_grey">#9ea2a4</color>
+    <color name="bookType">#E89852</color>
+    <color name="listPriceBlue">#00A5FF</color>
+	<color name="light_black">#646464</color>
+	<color name="text_light_black">#79787d</color>
+	<color name="line_gray">#848484</color>
+	<color name="progress_bg_gray">#b7b7b7</color>
+	<color name="progress_gray">#868686</color>
+	<color name="progress_dark_gray">#8b8b8b</color>
+	<color name="progress_in_gray">#a9a9a9</color>
+	<color name="vote_num_green">#6eb75a</color>
+    <color name="holo_blue_light">#ff33b5e5</color>
+	
+    <color name="text_light_grey">#c8c2b9</color>
+    <color name="text_dark_grey">#908879</color>
+    <color name="text_deep_grey">#7c8184</color>
+    <color name="text_blue">#279aec</color>
+    <color name="text_dark_blue">#4585bc</color>
+    <color name="text_light_blue">#00a2ff</color>
+    <color name="text_shallow_blue">#6eb0e5</color>
+    <color name="text_green">#99cc00</color>
+    <color name="text_light_green">#83c351</color>
+    <color name="text_light">#eeeeee</color>
+    <color name="text_hint">#e5e5e5</color>
+    <color name="suggest_pressed_blue">#e4f4ff</color>
+    <color name="text_cursor_blue">#00a5ff</color>
+    <color name="text_blue_slash">#0762a1</color>
+    <color name="text_red">#d53a3a</color>
+    <color name="transparent">#00ffffff</color>
+    <color name="trans_black">#77000000</color>
+    <color name="trans_dark_black">#aa000000</color>
+    <color name="trans_white">#77ffffff</color>
+    <color name="trans_80_percent_black">#CC000000</color>
+    
+    <color name="trans_gray">#aaffffff</color>
+    <color name="ocr_res_transparent">#808080ff</color>
+    <color name="ocr_res_text_color">#ffffffff</color>
+    <color name="ocr_result_text_color">#ffffff</color>
+    <color name="ocr_toast_bg_color">#fb2c2c2c</color>
+    <color name="capturelayout_frame">#ff000000</color>
+    <color name="capturelayout_mask">#73000000</color>
+    
+    <color name="seekbar_progress">#279aec</color>
+    <color name="seekbar_background">#b8b1a4</color>
+    
+    <color name="bisheng_title_sep">#7c7c7c</color>
+    
+    <color name="pref_item_title_bg">#edebe8</color>
+
+
+    <color name="book_content_title_textcolor">#b84a00</color>
+    <color name="book_top_buy_button_word_color">#ffffff</color>
+    <color name="book_setting_float2_booktext_bg">#29292b</color>
+    <color name="book_setting_title_color">#cbcbcb</color>
+    <color name="book_setting_size_color">#acacac</color>
+    <color name="book_setting_size_select_color">#ed8a42</color>
+    <color name="book_setting_turn_page_color">#cccccc</color>
+    <color name="book_setting_turn_page_select_color">#ed8a42</color>
+    <color name="book_navigation_setting_tip_textcolor">#ffffff</color>
+    <color name="book_status_textcolor_black">#666666</color>
+    <color name="book_leftbtn_textcolor_black">#999999</color>
+    <color name="book_rightbtn_textcolor_black">#999999</color>
+    <color name="book_perfect_normal_image_frame_color">#dcdcdc</color>
+    <color name="book_perfect_normal_image_frame_color_black">#8c8c8c</color>
+    <color name="book_search_highlight_color">#d31616</color>
+    <color name="book_search_highlight_color_black">#d28934</color>
+    <color name="book_title_page_background_color">#1a5e5353</color>
+    <color name="book_title_page_background_color_black">#1a737373</color>
+    <color name="book_content_textcolor">#2a0303</color>
+    <color name="book_content_textcolor_black">#5f5f5f</color>
+    <color name="book_mark_color">#fed975</color>
+    <color name="book_mark_color_black">#674216</color>
+    <color name="book_highlight_color_black">#1f4864</color>
+    <color name="book_curl_theme_night_color">#404040</color>
+    <color name="book_curl_theme_0_color">#ddc79f</color>
+    <color name="book_curl_theme_1_color">#cdc8bf</color>
+    <color name="book_curl_theme_2_color">#dbd6d6</color>
+    <color name="book_curl_theme_3_color">#ccd3e1</color>
+    <color name="book_status_textcolor">#453939</color>
+    <color name="book_leftbtn_textcolor">#ffffff</color>
+    <color name="book_rightbtn_textcolor">#000000</color>
+    <color name="book_highlight_color">#f69154</color>
+    <color name="list_background_selector_selected_color">#F2B212</color>
+    <color name="list_background_selector_default_color">#F7F7F8</color>
+    <color name="file_item_name_color">#000000</color>
+    <color name="file_item_other_word_color">#7f7f7f</color>
+    <color name="content_center_add_item_press">#ffffff</color>
+    <color name="content_center_add_item">#f61e19</color>
+    <color name="file_path_word_color">#7f7f7f</color>
+    <color name="file_noopsyche_scan_word_color">#ffffff</color>
+    <color name="file_list_background_color">#F7F7F8</color>
+    <color name="book_continue_textcolor">#F7F7F7</color>
+    <color name="book_search_keyword_hint_textcolor_black">#999999</color>
+    <color name="book_search_keyword_hint_textcolor">#cccccc</color>
+    <color name="book_main_background">#F7F7F7</color>
+
+    <color name="canvas">#404040</color>
+    <color name="toolbar">#C0000000</color>
+    <color name="page_indicator">#C0202020</color>
+    <color name="busy_indicator">#C0202020</color>
+    <color name="button_normal">#00000000</color>
+    <color name="button_pressed">#FF2572AC</color>
+    <color name="text_normal">#FFFFFF</color>
+    <color name="text_pressed">#FFFFFF</color>
+    <color name="text_border_normal">#000000</color>
+    <color name="text_border_pressed">#2572AC</color>
+    <color name="text_border_focused">#000000</color>
+    <color name="seek_thumb">#2572AC</color>
+    <color name="seek_progress">#FFFFFF</color>
+
+
+    <color name="import_file_tab">#00A5FF</color>
+    <color name="shadow_color">#5faa32</color>
+    <color name="install_cancel_bg_color">#f6f6f6</color>
+    <color name="install_cancel_text_color">#d05555</color>
+    <color name="video_divider_color">#282828</color>
+    <color name="flow_item_selected">#f3f4f5</color>
+    
+    <color name="flow_popup_normal_black">#38393b</color>
+    <color name="flow_popup_select_grey">#494a4c</color>
+    <color name="flow_item_diver_bg">#ececec</color>
+    <color name="flow_item_type_num_grey">#777777</color>
+    <color name="flow_item_title_black">#333332</color>
+    <color name="flow_item_summary_grey">#777777</color>
+    <color name="flow_item_had_read_grey">#7b7b7b</color>
+    <color name="flow_item_progress_red">#33f60c11</color>
+    
+    <color name="picture_set_bg">#1b1b1b</color>
+    <color name="picture_set_text">#ffffff</color>
+
+    <color name="video_devider_color">#282828</color>
+
+    <color name="edit_word_background">#fcfbfa</color>
+    <color name="wordbook_progressbar">#f64c47</color>
+    <color name="wordbook_progressbar_background">#00000000</color>
+    
+    <color name="dialog_bg_white">#f5f5f5</color>
+    <color name="dialog_divider">#dbdbdb</color>
+    <color name="dialog_main_bg_grey">#aa000000</color>
+    <color name="dialog_button_blue">#6396ff</color>
+    <color name="dialog_button_grey">#98a1b2</color>
+    <color name="recharge_bg_color">#f7f7f7</color>
+     <color name="color_bai">#ffffffff</color>
+       <color name="bg_item_press">#f0f0f0</color>
+        <color name="color_shenhui">#ff999999</color>
+    <color name="bg_item">#fff</color>
+        <color name="text_item_title">#222</color>
+         <color name="holo_blue">#FF33E5B5</color>
+             <color name="chat_text">@color/color_cihei</color>
+    <color name="chat_time">@color/color_bai</color>
+    <color name="chat_history_time_text">@color/color_shenhui</color>
+    <color name="semi_transparent_w">#7fffffff</color>
+    
+    
+    
+    
+        <color name="float_transparent">#66000000</color>
+    <color name="sweet_dialog_bg_color">#FFFFFF</color>
+    <color name="button_text_color">#FFFFFF</color>
+    <color name="gray_btn_bg_color">#D0D0D0</color>
+    <color name="gray_btn_bg_pressed_color">#B6B6B6</color>
+    <color name="blue_btn_bg_color">#AEDEF4</color>
+    <color name="blue_btn_bg_pressed_color">#96BFD2</color>
+    <color name="red_btn_bg_color">#DD6B55</color>
+    <color name="red_btn_bg_pressed_color">#CD5B55</color>
+    <color name="error_stroke_color">#F27474</color>
+    <color name="success_stroke_color">#A5DC86</color>
+    <color name="trans_success_stroke_color">#33A5DC86</color>
+    <color name="warning_stroke_color">#F8BB86</color>
+    
+     <color name="primary">#3f51b5</color>
+    <color name="primary_dark">#303f9f</color>
+    <color name="ripple">#ffffffff</color>
+    <color name="accent">#ffffffff</color>
+    <color name="accent_pressed">#9000bb6c</color>
+</resources>

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/davidinchina/Downloads/ai-translate-android-demo-v1/YouDao/demo-translate/build/intermediates/res/merged/debug/raw/reset_sound.mp3",
+        "source": "/Users/davidinchina/Downloads/ai-translate-android-demo-v1/YouDao/demo-translate/res/raw/reset_sound.mp3"
+    },
+    {
+        "merged": "/Users/davidinchina/Downloads/ai-translate-android-demo-v1/YouDao/demo-translate/build/intermediates/res/merged/debug/raw/pull_event.mp3",
+        "source": "/Users/davidinchina/Downloads/ai-translate-android-demo-v1/YouDao/demo-translate/res/raw/pull_event.mp3"
+    },
+    {
+        "merged": "/Users/davidinchina/Downloads/ai-translate-android-demo-v1/YouDao/demo-translate/build/intermediates/res/merged/debug/raw/office.mp3",
+        "source": "/Users/davidinchina/Downloads/ai-translate-android-demo-v1/YouDao/demo-translate/res/raw/office.mp3"
+    },
+    {
+        "merged": "/Users/davidinchina/Downloads/ai-translate-android-demo-v1/YouDao/demo-translate/build/intermediates/res/merged/debug/raw/refreshing_sound.mp3",
+        "source": "/Users/davidinchina/Downloads/ai-translate-android-demo-v1/YouDao/demo-translate/res/raw/refreshing_sound.mp3"
+    },
+    {
+        "merged": "/Users/davidinchina/Downloads/ai-translate-android-demo-v1/YouDao/demo-translate/build/intermediates/res/merged/debug/raw/of.mp3",
+        "source": "/Users/davidinchina/Downloads/ai-translate-android-demo-v1/YouDao/demo-translate/res/raw/of.mp3"
+    }
+]

@@ -1,0 +1,16 @@
+#Sat Jul 01 16:02:17 CST 2017
+renamed.4=classes5.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+base.4=/Users/davidinchina/Downloads/ai-translate-android-demo-v1/YouDao/demo-translate/build/intermediates/transforms/dex/debug/folders/1000/2/YoudaoWordOffline_a16fee4a1bea305f5a90d2134a37823af7b67917
+renamed.0=classes.dex
+base.3=/Users/davidinchina/Downloads/ai-translate-android-demo-v1/YouDao/demo-translate/build/intermediates/transforms/dex/debug/folders/1000/2/YoudaoTranslateOnline_5d74a5c7aaaf534c843eed178ec2ae910f90e8c0
+base.2=/Users/davidinchina/Downloads/ai-translate-android-demo-v1/YouDao/demo-translate/build/intermediates/transforms/dex/debug/folders/1000/2/YoudaoLineOffline_008489327b04c87cd19c21f7b5089f165393ad69
+base.1=/Users/davidinchina/Downloads/ai-translate-android-demo-v1/YouDao/demo-translate/build/intermediates/transforms/dex/debug/folders/1000/2/YoudaoCnDictOffline_f0e3c32798d2c4618ce0466bc1a811cd41556b29
+base.0=/Users/davidinchina/Downloads/ai-translate-android-demo-v1/YouDao/demo-translate/build/intermediates/transforms/dex/debug/folders/1000/2/YoudaoBase_46bffbfbad0c94921d5a9efab40909fcfdf720cf
+file.4=/Users/davidinchina/Downloads/ai-translate-android-demo-v1/YouDao/demo-translate/build/intermediates/transforms/dex/debug/folders/1000/2/YoudaoWordOffline_a16fee4a1bea305f5a90d2134a37823af7b67917/classes.dex
+file.3=/Users/davidinchina/Downloads/ai-translate-android-demo-v1/YouDao/demo-translate/build/intermediates/transforms/dex/debug/folders/1000/2/YoudaoTranslateOnline_5d74a5c7aaaf534c843eed178ec2ae910f90e8c0/classes.dex
+file.2=/Users/davidinchina/Downloads/ai-translate-android-demo-v1/YouDao/demo-translate/build/intermediates/transforms/dex/debug/folders/1000/2/YoudaoLineOffline_008489327b04c87cd19c21f7b5089f165393ad69/classes.dex
+file.1=/Users/davidinchina/Downloads/ai-translate-android-demo-v1/YouDao/demo-translate/build/intermediates/transforms/dex/debug/folders/1000/2/YoudaoCnDictOffline_f0e3c32798d2c4618ce0466bc1a811cd41556b29/classes.dex
+file.0=/Users/davidinchina/Downloads/ai-translate-android-demo-v1/YouDao/demo-translate/build/intermediates/transforms/dex/debug/folders/1000/2/YoudaoBase_46bffbfbad0c94921d5a9efab40909fcfdf720cf/classes.dex

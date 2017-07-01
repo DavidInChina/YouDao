@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/davidinchina/Downloads/ai-translate-android-demo-v1/YouDao/demo-translate/build/intermediates/res/merged/debug/drawable-hdpi-v4/selector_bg_list_item.xml",
+        "source": "/Users/davidinchina/Downloads/ai-translate-android-demo-v1/YouDao/demo-translate/res/drawable-hdpi/selector_bg_list_item.xml"
+    },
+    {
+        "merged": "/Users/davidinchina/Downloads/ai-translate-android-demo-v1/YouDao/demo-translate/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg_rectangle_with_solid.xml",
+        "source": "/Users/davidinchina/Downloads/ai-translate-android-demo-v1/YouDao/demo-translate/res/drawable-hdpi/bg_rectangle_with_solid.xml"
+    },
+    {
+        "merged": "/Users/davidinchina/Downloads/ai-translate-android-demo-v1/YouDao/demo-translate/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg.jpg",
+        "source": "/Users/davidinchina/Downloads/ai-translate-android-demo-v1/YouDao/demo-translate/res/drawable-hdpi/bg.jpg"
+    },
+    {
+        "merged": "/Users/davidinchina/Downloads/ai-translate-android-demo-v1/YouDao/demo-translate/build/intermediates/res/merged/debug/drawable-hdpi-v4/preference_item.xml",
+        "source": "/Users/davidinchina/Downloads/ai-translate-android-demo-v1/YouDao/demo-translate/res/drawable-hdpi/preference_item.xml"
+    }
+]

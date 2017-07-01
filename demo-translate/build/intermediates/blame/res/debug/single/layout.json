@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/davidinchina/Downloads/ai-translate-android-demo-v1/YouDao/demo-translate/build/intermediates/res/merged/debug/layout/translate_item.xml",
+        "source": "/Users/davidinchina/Downloads/ai-translate-android-demo-v1/YouDao/demo-translate/res/layout/translate_item.xml"
+    },
+    {
+        "merged": "/Users/davidinchina/Downloads/ai-translate-android-demo-v1/YouDao/demo-translate/build/intermediates/res/merged/debug/layout/sw_list_row.xml",
+        "source": "/Users/davidinchina/Downloads/ai-translate-android-demo-v1/YouDao/demo-translate/res/layout/sw_list_row.xml"
+    },
+    {
+        "merged": "/Users/davidinchina/Downloads/ai-translate-android-demo-v1/YouDao/demo-translate/build/intermediates/res/merged/debug/layout/translate_head.xml",
+        "source": "/Users/davidinchina/Downloads/ai-translate-android-demo-v1/YouDao/demo-translate/res/layout/translate_head.xml"
+    },
+    {
+        "merged": "/Users/davidinchina/Downloads/ai-translate-android-demo-v1/YouDao/demo-translate/build/intermediates/res/merged/debug/layout/browser.xml",
+        "source": "/Users/davidinchina/Downloads/ai-translate-android-demo-v1/YouDao/demo-translate/res/layout/browser.xml"
+    },
+    {
+        "merged": "/Users/davidinchina/Downloads/ai-translate-android-demo-v1/YouDao/demo-translate/build/intermediates/res/merged/debug/layout/hanyu.xml",
+        "source": "/Users/davidinchina/Downloads/ai-translate-android-demo-v1/YouDao/demo-translate/res/layout/hanyu.xml"
+    },
+    {
+        "merged": "/Users/davidinchina/Downloads/ai-translate-android-demo-v1/YouDao/demo-translate/build/intermediates/res/merged/debug/layout/translate_line_offline_list.xml",
+        "source": "/Users/davidinchina/Downloads/ai-translate-android-demo-v1/YouDao/demo-translate/res/layout/translate_line_offline_list.xml"
+    },
+    {
+        "merged": "/Users/davidinchina/Downloads/ai-translate-android-demo-v1/YouDao/demo-translate/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/davidinchina/Downloads/ai-translate-android-demo-v1/YouDao/demo-translate/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/davidinchina/Downloads/ai-translate-android-demo-v1/YouDao/demo-translate/build/intermediates/res/merged/debug/layout/translate_detail.xml",
+        "source": "/Users/davidinchina/Downloads/ai-translate-android-demo-v1/YouDao/demo-translate/res/layout/translate_detail.xml"
+    },
+    {
+        "merged": "/Users/davidinchina/Downloads/ai-translate-android-demo-v1/YouDao/demo-translate/build/intermediates/res/merged/debug/layout/sw_list_dialog.xml",
+        "source": "/Users/davidinchina/Downloads/ai-translate-android-demo-v1/YouDao/demo-translate/res/layout/sw_list_dialog.xml"
+    },
+    {
+        "merged": "/Users/davidinchina/Downloads/ai-translate-android-demo-v1/YouDao/demo-translate/build/intermediates/res/merged/debug/layout/item_divider.xml",
+        "source": "/Users/davidinchina/Downloads/ai-translate-android-demo-v1/YouDao/demo-translate/res/layout/item_divider.xml"
+    },
+    {
+        "merged": "/Users/davidinchina/Downloads/ai-translate-android-demo-v1/YouDao/demo-translate/build/intermediates/res/merged/debug/layout/translate_list.xml",
+        "source": "/Users/davidinchina/Downloads/ai-translate-android-demo-v1/YouDao/demo-translate/res/layout/translate_list.xml"
+    }
+]

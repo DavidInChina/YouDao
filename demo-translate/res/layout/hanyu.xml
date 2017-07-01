@@ -1,0 +1,85 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+<RelativeLayout
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff" >
+
+    <RelativeLayout
+        android:id="@+id/titleBar"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:background="#fff" >
+
+        <ImageView
+            android:id="@+id/login_reback_btn"
+            android:layout_width="28dp"
+            android:layout_height="24dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="6dp"
+            android:layout_marginTop="9dp"
+            android:clickable="true"
+            android:onClick="loginBack"
+            android:src="@drawable/backclose" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_marginRight="15dp"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:maxWidth="260dp"
+            android:text="汉语词典翻译"
+            android:textColor="#808080"
+            android:textSize="20sp" />
+
+        <include
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_alignParentBottom="true"
+            layout="@layout/item_divider" />
+    </RelativeLayout>
+
+    <EditText
+        android:id="@+id/editext"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:layout_below="@+id/titleBar"
+        android:layout_margin="20dp"
+        android:hint="含蓄"
+        android:text="吃饭家生" />
+
+    <Button
+        android:id="@+id/startBtn"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:layout_below="@+id/editext"
+        android:layout_margin="20dp"
+        android:text="开始查询" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/startBtn"
+        android:layout_margin="20dp"
+        android:text="暂无查询结果"
+        android:textSize="15dp" />
+
+    <TextView
+        android:id="@+id/moreBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView"
+        android:layout_margin="20dp"
+        android:gravity="left|top"
+        android:text="查看更多释义"
+        android:textColor="#3399ff"
+        android:textSize="16sp" />
+
+</RelativeLayout>
+</ScrollView>
