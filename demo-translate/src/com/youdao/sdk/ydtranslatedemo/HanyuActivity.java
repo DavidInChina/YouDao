@@ -1,13 +1,11 @@
 package com.youdao.sdk.ydtranslatedemo;
 
-import java.io.IOException;
-import java.util.List;
-
 import android.app.Activity;
 import android.os.Bundle;
 import android.os.Handler;
 import android.text.Html;
 import android.text.TextUtils;
+import android.util.Log;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
@@ -21,6 +19,9 @@ import com.youdao.sdk.chdict.ChdictMeans;
 import com.youdao.sdk.chdict.DictListener;
 import com.youdao.sdk.chdict.ExamLine;
 import com.youdao.sdk.ydtranslatedemo.utils.ToastUtils;
+
+import java.io.IOException;
+import java.util.List;
 
 public class HanyuActivity extends Activity {
     private ChDictor chDictor = null;
@@ -51,6 +52,7 @@ public class HanyuActivity extends Activity {
                     // TODO Auto-generated catch block
                     // 初始化之前，请保证离线文件存储在Environment.getExternalStorageDirectory().getPath()
                     // + "/yuwen/backup/"路径下
+                    Log.e("ceshi","初始化失败");
                     ToastUtils.show("初始化失败");
                 }
             }
@@ -94,7 +96,6 @@ public class HanyuActivity extends Activity {
         String text = editText.getText().toString();
         if (!TextUtils.isEmpty(text)) {
             chDictor.lookup(text, new DictListener() {
-
                 @Override
                 public void onResult(final List<ChDictTranslate> chTs) {
                     // 注意：回调是在子线程中进行，拿到查询结果之后若有更新UI操作，请切换到主线程执行

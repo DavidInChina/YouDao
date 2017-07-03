@@ -7,8 +7,6 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.TextView;
 
-import com.youdao.sdk.app.YouDaoApplication;
-
 public class MainActivity extends Activity {
     private Handler mHandler = new Handler();
 
@@ -49,7 +47,7 @@ public class MainActivity extends Activity {
                         .toTranslateOfflineWordActivity(MainActivity.this);
             }
         });
-        
+
         View startBtn3 = findViewById(R.id.startBtn3);
         startBtn3.setOnClickListener(new OnClickListener() {
 

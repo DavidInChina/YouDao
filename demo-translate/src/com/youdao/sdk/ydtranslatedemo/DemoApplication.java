@@ -19,7 +19,7 @@ public class DemoApplication extends Application {
     @Override
     public void onCreate() {
         super.onCreate();
-        YouDaoApplication.init(this,"0e2eb96efccd3b13");//创建应用，每个应用都会有一个Appid，绑定对应的翻译服务实例，即可使用
+        YouDaoApplication.init(this,"你的appid");//创建应用，每个应用都会有一个Appid，绑定对应的翻译服务实例，即可使用
         youAppction = this;
     }
 
