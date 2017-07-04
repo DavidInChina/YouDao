@@ -2,8 +2,8 @@ package com.youdao.sdk.ydtranslatedemo;
 
 /**
  * @(#)BrowserActivity.java, 2013�?10�?22�?. Copyright 2013 Yodao, Inc. All
- *                           rights reserved. YODAO PROPRIETARY/CONFIDENTIAL.
- *                           Use is subject to license terms.
+ * rights reserved. YODAO PROPRIETARY/CONFIDENTIAL.
+ * Use is subject to license terms.
  */
 
 import android.app.Activity;
@@ -39,7 +39,8 @@ public class TranslateDetailActivity extends Activity {
             getWindow().requestFeature(Window.FEATURE_PROGRESS);
             getWindow().setFeatureInt(Window.FEATURE_PROGRESS,
                     Window.PROGRESS_VISIBILITY_ON);
-        } catch (Exception e) {}
+        } catch (Exception e) {
+        }
         setContentView(R.layout.translate_detail);
 
         translateData = (TranslateData) this.getIntent().getSerializableExtra(
